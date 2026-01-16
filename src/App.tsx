@@ -4,10 +4,7 @@ import {
   Linkedin,
   Mail,
   MapPin,
-  Code2,
   Workflow,
-  Bug,
-  Layout,
   Terminal,
   Server,
   ArrowRight
